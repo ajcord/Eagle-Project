@@ -4,7 +4,7 @@ I've been asked for the plans to my Eagle Scout Project many times, so I decided
 
 Note that this is essentially a snapshot of how the project existed at its completion in 2012. I haven't tried to keep everything up to date, so your mileage may vary.
 
-There are also a couple of YouTube videos for the project [here](https://www.youtube.com/playlist?list=PLlO3h9nk0MbyEmixgNUvEjmmrnmELnX12). Also, there are photos in the [images](https://github.com/ajcord/Eagle-Project/tree/master/images/)] folder.
+There are also a couple of YouTube videos for the project [here](https://www.youtube.com/playlist?list=PLlO3h9nk0MbyEmixgNUvEjmmrnmELnX12). Also, there are photos in the [images](https://github.com/ajcord/Eagle-Project/tree/master/images/) folder.
 
 ## Details
 
