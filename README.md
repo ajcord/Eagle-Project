@@ -10,7 +10,7 @@ There are also a couple of YouTube videos for the project [here](https://www.you
 
 I wrote the instructions before I actually built the project, so they leave out some parts that I added later like the access holes in the bottom corners of the main wall and the foothold braces underneath the inner parts of the footholds (I will explain this below). They are also rather hard to follow at times. You should use them only as guidelines. My recommendation is to double check all of the measurements before you cut to ensure they make sense. The better you know the project, the less chance that you will make a mistake. That is why I recommend looking at the model in detail.
 
-[Changes.pdf](https://github.com/ajcord/Eagle-Project/raw/master/src/instructions/Changes.pdf) explains most of the changes I made. [The model](https://github.com/ajcord/Eagle-Project/raw/master/src/model/Design_finished.skp) should include all of those changes as well (but with measurements). Where the instructions and the model differ, use the model. Also, SketchUp has a very useful tape measure tool that you can use to measure out anything on the model that you need. Feel free to move the plywood away from the main wall in the model so you can see what's inside. I also have a picture of the inside of the wall below.
+[Changes.pdf](https://github.com/ajcord/Eagle-Project/blob/master/instructions/Changes.pdf) explains most of the changes I made. [The model](https://github.com/ajcord/Eagle-Project/blob/master/model/Design_finished.skp) should include all of those changes as well (but with measurements). Where the instructions and the model differ, use the model. Also, SketchUp has a very useful tape measure tool that you can use to measure out anything on the model that you need. Feel free to move the plywood away from the main wall in the model so you can see what's inside. I also have a picture of the inside of the wall below.
 
 These are the steps of the instructions that are not entirely valid:
 * Step 4 is also where you probably should add the two extra support studs that I mention in the Changes attachment. They should extend from just above the top set of footholds to 1-1/2" below the bottom of the window. They should be attached to the inside of the two inner studs to provide support for the sill plate. See the model or the picture below if you need to see what I'm talking about.
@@ -32,7 +32,7 @@ That way you will be able to screw those bottom parts to the wall studs instead 
 
 Here is a picture of the inside of the wall for reference. Notice the two support studs below the window.
 
-![Inside of the wall][https://github.com/ajcord/Eagle-Project/raw/master/src/images/IMG_5748.JPG]
+![Inside of the wall][https://github.com/ajcord/Eagle-Project/raw/master/images/IMG_5748.JPG]
 
 My final cost was $580.28, but a few of my materials were donated. However, those are probably offset by the cost of some of the materials I didn't use (like paint thinner to clean the paintbrushes and the return shipping cost on the wrong size of lag screws that I ordered online).
 I've look through this parts list and updated it with what I think is the correct information. Some of the parts changed from planning to construction, but I think this is accurate.
