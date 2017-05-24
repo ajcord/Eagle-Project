@@ -32,7 +32,7 @@ That way you will be able to screw those bottom parts to the wall studs instead 
 
 Here is a picture of the inside of the wall for reference. Notice the two support studs below the window.
 
-![Inside of the wall][https://github.com/ajcord/Eagle-Project/raw/master/images/IMG_5748.JPG]
+![Inside of the wall](https://github.com/ajcord/Eagle-Project/raw/master/images/IMG_5748.JPG)
 
 My final cost was $580.28, but a few of my materials were donated. However, those are probably offset by the cost of some of the materials I didn't use (like paint thinner to clean the paintbrushes and the return shipping cost on the wrong size of lag screws that I ordered online).
 I've look through this parts list and updated it with what I think is the correct information. Some of the parts changed from planning to construction, but I think this is accurate.
